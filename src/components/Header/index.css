@@ -1,0 +1,28 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+.nav-logo {
+  width: 20%;
+  margin: 20px;
+}
+
+.timer-logo {
+  width: 50%;
+  margin: 20px;
+}
+
+.score {
+  color: #fff;
+}
+
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
